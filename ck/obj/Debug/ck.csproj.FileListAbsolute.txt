@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\ck\ck\bin\Debug\ck.exe.config
+C:\Users\mauri\source\repos\ck\ck\bin\Debug\ck.exe
+C:\Users\mauri\source\repos\ck\ck\bin\Debug\ck.pdb
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.Form1.resources
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.Properties.Resources.resources
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.exe
+C:\Users\mauri\source\repos\ck\ck\obj\Debug\ck.pdb
